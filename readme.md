@@ -1,6 +1,6 @@
 <h1 align="center">Calculadora</h1>
 
-Calculadora desenvolvida com Readt.js
+Calculadora desenvolvida com React.js
 
 <p align="center">
 	<img src="https://img.shields.io/github/license/tarcisioaraujo/galeria-fotos" alt="License">	 
